@@ -1,0 +1,17 @@
+{
+  "name": "real-time-tracking",
+  "version": "1.0.0",
+  "description": "Lets track the things ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Muhammad Rafay Hassni",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
